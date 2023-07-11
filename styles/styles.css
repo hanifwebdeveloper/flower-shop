@@ -4,6 +4,7 @@
     font-family: 'Lato', sans-serif;
 }
 
+/* header style */
 .header {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -33,6 +34,7 @@
     color: rgba(39, 39, 39, 0.60);
 }
 
+/* flower section  */
 .flower-content {
     width: 25%;
     height: 60vh;
@@ -57,6 +59,7 @@
     margin-bottom: 0;
 }
 
+/* feature style  */
 .our-feature {
     text-align: center;
     margin-top: 178px;
@@ -75,6 +78,7 @@
     margin-bottom: 20px;
 }
 
+/* boxes syles */
 .boxs {
     display: flex;
     justify-content: center;
@@ -124,6 +128,7 @@
     width: 285px;
 }
 
+/* hot deal section */
 .hot-deal-section {
     display: flex;
     justify-content: space-around;
@@ -161,6 +166,7 @@
     height: 396px;
 }
 
+/* background image style */
 .back-img {
     background: url("../bg/Rectangle.png") lightgray 0px -203.444px / 100% 213.755% no-repeat;
     color: #FFF;
@@ -178,6 +184,7 @@
     padding-top: 150px;
 }
 
+/* input and email button style */
 .email-input {
     display: flex;
     justify-content: center;
@@ -193,6 +200,7 @@
     border: none;
 }
 
+/* footer section style */
 .footer-section {
     background: #111010;
     color: white;
