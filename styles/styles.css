@@ -211,7 +211,7 @@
 
 /* background image style */
 .back-img {
-    background: url("./bg/Rectangle.png") lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background: url("../bg/Rectangle.png") lightgray 0px -203.444px / 100% 213.755% no-repeat;
     color: #FFF;
     border-radius: 8px;
     width: 100%;
