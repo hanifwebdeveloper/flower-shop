@@ -55,7 +55,7 @@
 }
 
 .flower-img {
-    width: 400px;
+    width: 405px;
     margin-bottom: 0;
 }
 
@@ -83,7 +83,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
 }
 
 .box li {
@@ -94,30 +94,37 @@
 .box1 {
     width: 310px;
     height: 428px;
-    border-radius: 130px 130px 0px 0px;
+    border-radius: 145px 145px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    text-decoration: underline;
 }
 
 .box1 img {
-    width: 310px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
 .box2 {
     width: 310px;
     height: 428px;
-    border-radius: 130px 130px 0px 0px;
+    border-radius: 145px 145px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
+    text-decoration: underline;
 }
 
 .box2 img {
-    width: 428px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
 .box3 {
     width: 310px;
     height: 428px;
-    border-radius: 130px 130px 0px 0px;
+    border-radius: 145px 145px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    text-decoration: underline;
 }
 
 .primary-text {
@@ -125,7 +132,9 @@
 }
 
 .box3 img {
-    width: 285px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
 /* hot deal section */
@@ -143,8 +152,11 @@
 }
 
 .flower-image-section img {
-    width: 318px;
-    height: 420px;
+    /* width: 318px;
+    height: 420px; */
+    width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
 .flower-section {
@@ -162,8 +174,39 @@
 }
 
 .flower1 img {
-    width: 342px;
-    height: 396px;
+    /* width: 342px;
+    height: 396px; */
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.brance-section {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.brance-title {
+    font-size: 26px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.foot-title {
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(39, 39, 39, 0.60);
+    line-height: 30px;
+}
+
+.brance-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.brance-deal {
+    text-align: center;
 }
 
 /* background image style */
